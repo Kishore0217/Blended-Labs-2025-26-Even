@@ -75,9 +75,9 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** HARISH S
+**Name:** KISHORE S
 
-**Register no** 212224040105
+**Register no** 212224240078
 
 **Course:** Introduction to Cloud Computing  
 ****
